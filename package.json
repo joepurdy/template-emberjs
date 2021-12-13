@@ -2,10 +2,6 @@
   "name": "template-ember",
   "version": "0.1.0",
   "private": true,
-  "description": "Small description for template-ember goes here",
-  "repository": "",
-  "license": "MIT",
-  "author": "",
   "directories": {
     "doc": "doc",
     "test": "tests"

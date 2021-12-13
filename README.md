@@ -1,6 +1,6 @@
 # A Ember.js App template on Gitpod
 
-This is a [Ember.js](https://emberjs.com/) app template configured for ephemeral development environments on [Gitpod](https://www.gitpod.io/).
+This is an [Ember.js](https://emberjs.com/) app template configured for ephemeral development environments on [Gitpod](https://www.gitpod.io/).
 
 ## Next Steps
 
